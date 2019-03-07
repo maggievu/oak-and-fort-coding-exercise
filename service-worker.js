@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/oak-and-fort-coding-exercise/precache-manifest.b37f8a123c049c018742b67ab34bdee9.js"
+  "/oak-and-fort-coding-exercise/precache-manifest.301b9492f873882bfa4674a76e80a66b.js"
 );
 
 workbox.clientsClaim();
